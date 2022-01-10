@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Waavi/url-shortener"
+            "url": "https://github.com/Anchalvishwakarma/url-shortener"
         }
     ],
     "require": {
